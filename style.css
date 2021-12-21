@@ -60,13 +60,15 @@ body {
 }
 #copyright{font-family: 'Courgette', cursive;
     font-size: 1.5rem;
-    text-shadow: black 6px 6px 8px; 
+    text-shadow: 
+    white 2px 2px 4px; 
+    color: darkturquoise; 
 }
 #title{
     font-family: 'Source Serif 4', sans-serif;
     font-size: 1.5rem;
     text-align: left;
-    text-shadow: black 7px 7px 10px;
-    color: rgb(177, 215, 252);
+    text-shadow: white 2px 2px 4px;
+    color: darkturquoise;
 
 }

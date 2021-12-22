@@ -3,10 +3,12 @@
     height: 80px;
     margin-top: 0px;
 }
-#nasa{
+
+#nasa {
     color: darkturquoise;
     display: inline-block;
 }
+
 .kopf-recht a {
     background-color: rgb(5, 9, 31);
     color: white;
@@ -24,6 +26,7 @@
     justify-content: space-between;
     align-items: center;
 }
+
 .kopf-recht {
     float: right;
     padding-top: 100px;
@@ -47,28 +50,35 @@ body {
     border: 0.5rem rgb(83, 19, 19) solid;
 
 }
-#datum{
-  font-size: 1.5rem;
-  text-align: right;  
-}
-#beschreibung{font-family: 'Source Serif 4', sans-serif;
+
+#datum {
     font-size: 1.5rem;
-    text-align: left;
-    text-shadow: black 7px 7px 10px;
-    color: rgb(177, 215, 252);
+    text-align: right;
+    text-shadow: rgb(118, 173, 204) 2px 2px 4px;
+    color: rgb(33, 117, 156);
 
 }
-#copyright{font-family: 'Courgette', cursive;
-    font-size: 1.5rem;
-    text-shadow: 
-    white 2px 2px 4px; 
-    color: darkturquoise; 
-}
-#title{
+
+#beschreibung {
     font-family: 'Source Serif 4', sans-serif;
     font-size: 1.5rem;
     text-align: left;
-    text-shadow: white 2px 2px 4px;
-    color: darkturquoise;
+    text-shadow: rgb(118, 173, 204) 2px 2px 4px;
+    color: rgb(33, 117, 156);
 
+}
+
+#copyright {
+    font-family: 'Courgette', cursive;
+    font-size: 1.5rem;
+    text-shadow: rgb(118, 173, 204) 2px 2px 4px;
+    color: rgb(33, 117, 156);
+}
+
+#title {
+    font-family: 'Source Serif 4', sans-serif;
+    font-size: 1.5rem;
+    text-align: left;
+    text-shadow: rgb(118, 173, 204) 2px 2px 4px;
+    color: rgb(33, 117, 156);
 }
